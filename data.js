@@ -2,7 +2,7 @@ const SITE = {
   name: "Idris Zakaria",
   role: "Automation & Digitalization",
   tagline: { id: "Saya membangun sistem otomasi dari panel kontrol, PLC dan firmware ESP32 sampai dashboard SCADA dan IoT.", en: "I build automation systems, from control panels, PLCs, and ESP32 firmware to SCADA and IoT dashboards." },
-  theme: "biru",                           // biru | gelap | hijau | ungu | sunset | minimal
+  theme: "gelap",                           // biru | gelap | hijau | ungu | sunset | minimal
   layout: "side",                          
   defaultLang: "id",                       
 
